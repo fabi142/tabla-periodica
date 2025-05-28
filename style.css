@@ -1,0 +1,29 @@
+
+body {
+  background: #0f0f1e;
+  color: white;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+}
+.titulo {
+  font-size: 2em;
+  margin-top: 20px;
+  text-shadow: 0 0 10px cyan;
+}
+#buscador {
+  padding: 10px;
+  width: 80%;
+  margin: 20px auto;
+  display: block;
+  font-size: 1em;
+  border: 2px solid #0ff;
+  border-radius: 10px;
+  background-color: #1a1a2e;
+  color: white;
+  outline: none;
+  box-shadow: 0 0 10px rgba(0,255,255,0.4);
+}
+#resultado {
+  margin-top: 20px;
+  font-size: 1.2em;
+}
